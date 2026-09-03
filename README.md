@@ -18,10 +18,9 @@
 <h2 align="center">About Me</h2>
 <p align="center">
     I’m interested in Natural Language Processing, Generative AI, Large Language Models, and building AI systems that solve real-world problems 🤖.<br>
-I enjoy experimenting with LLMs, RAG, semantic search, NLP, and AI agents — from exploring new ideas to turning them into working projects.<br>
-I’m a strong believer in continuous learning and curiosity 🌱, and I’m always exploring new models, tools, and ways to make AI more useful and accessible.<br>
-Always happy to collaborate, exchange ideas, and learn something new along the way! <br>
-
+    I enjoy experimenting with LLMs, RAG, semantic search, NLP, and AI agents — from exploring new ideas to turning them into working projects.<br>
+    I’m a strong believer in continuous learning and curiosity 🌱, and I’m always exploring new models, tools, and ways to make AI more useful and accessible.<br>
+    Always happy to collaborate, exchange ideas, and learn something new along the way! <br>
     🫱🏻‍🫲🏻 Hit me up on my <a href="mailto:manralyamini@gmail.com">email</a> or <a href="https://www.linkedin.com/in/yaminimanral/">LinkedIn</a> to start a conversation! 
 </p>
 
