@@ -17,10 +17,11 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-    I’m interested in time-series analysis and predictions, natural language processing, large language models, and deep learning 📈.<br>
-    In my current role, I am working on developing AI agents to solve complex business problems.<br>
-    I believe in continuous learning and exploration! 🌱 Recently, I completed some trainings on usage of TensorFlow and Neural Networks for prediction and analysis.<br>
-    I’m looking forward to meaningful collaborations, connections, and new learnings!<br>
+    I’m passionate about Natural Language Processing, Generative AI, Large Language Models, and building practical AI systems 🤖.<br>
+    I enjoy exploring LLMs, RAG, NLP pipelines, and AI agents to solve real-world problems and make information more accessible.<br>
+    Currently, I’m working on AI-driven solutions involving LLMs, semantic retrieval, document understanding, and intelligent agents.<br>
+    I believe in continuous learning, experimentation, and building things that create meaningful impact! 🌱<br>
+    Always open to meaningful collaborations, new ideas, and opportunities to learn and build together.
     🫱🏻‍🫲🏻 Hit me up on my <a href="mailto:manralyamini@gmail.com">email</a> or <a href="https://www.linkedin.com/in/yaminimanral/">LinkedIn</a> to start a conversation! 
 </p>
 
